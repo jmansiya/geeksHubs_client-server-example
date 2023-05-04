@@ -1,1 +1,3 @@
-# geekHub_ClientServerExample
+# client-server
+Deploy App client - server model
+Test
