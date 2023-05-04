@@ -1,2 +1,2 @@
 # client-server
-Deploy App client - server model
+Deploy App client - server model example
