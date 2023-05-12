@@ -55,7 +55,7 @@ variable "env" {
 }
 variable "project" {
   description = "Project name"
-  default     = "mc33"
+  default     = "mtl23"
 }
 variable "creator" {
   description = "Deploymente by"
@@ -63,7 +63,7 @@ variable "creator" {
 }
 variable "application" {
   description = "Deploymente by"
-  default     = "client-server"
+  default     = "client-server-mansilla"
 }
 variable "terraform" {
   description = "Terraform Template"
